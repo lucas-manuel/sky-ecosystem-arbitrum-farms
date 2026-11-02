@@ -97,3 +97,13 @@ Wait for the transaction to be relayed to L2, then run the following command to 
 ```
 forge script script/Forward.s.sol:Forward --slow --multi --broadcast
 ```
+
+## Audits
+
+Audit reports are hosted on the auditors' public portfolio pages:
+
+| Auditor | Report | Date |
+| --- | --- | --- |
+| ChainSecurity | [MakerDAO Arbitrum Farms](https://www.chainsecurity.com/security-audit/makerdao-arbitrum-farms/) | 2024-08-13 |
+
+ChainSecurity reports are cumulative: each portfolio page hosts the latest version of the report, which covers all previously reviewed versions.
